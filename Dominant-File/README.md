@@ -1,6 +1,6 @@
-### [DOMINANT PAIRS](https://practice.geeksforgeeks.org/problems/2a1c11024ceae36363fc405e07f2fa3e2f896ef0/1)
+# [DOMINANT PAIRS](https://practice.geeksforgeeks.org/problems/2a1c11024ceae36363fc405e07f2fa3e2f896ef0/1)
 
-# Difficulty: **Medium**
+### Difficulty: **Medium**
 
 You are given an array of integers of size n where n being even.. You have to calculate the number of dominate pairs (i,j) . Where a pair is called dominant if ( 0<=i<n/2, n/2<=j<n, arr[i]>=5*arr[j] ) these relation are fulfilled.  For example  in arr=[10,3,3,1] index i=0, j=3 form a dominating pair
 
@@ -37,4 +37,5 @@ dominant pair.So total 5 dominant pairs.
 ```
 
 **Expected Time Complexity:** O(nlogn)
+
 **Expected Auxiliary Space:** O(1)
