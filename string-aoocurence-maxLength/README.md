@@ -5,7 +5,7 @@
 Given the maximum occurrences of a, b, and c in a string. Your task is to make the string containing only a, b, and c such that no three consecutive characters are the same. If the resultant string equals to a+b+c, return the length (a+b+c) otherwise -1.
 
 ```
-Example 1:
+####Example 1:
 
 Input:
 a = 3, b = 3, c = 3
@@ -16,7 +16,7 @@ No three consecutive character of
 the string "abcabcabc" is same.
 ```
 ```
-Example 2:
+####Example 2:
 
 Input:
 a = 11, b = 2, c = 2
