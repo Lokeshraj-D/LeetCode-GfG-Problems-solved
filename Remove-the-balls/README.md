@@ -1,4 +1,4 @@
-# [REMOVE THE BALLS]()
+# [REMOVE THE BALLS](https://practice.geeksforgeeks.org/problems/546ea68f97be7283a04ddcc8057e09b46a686471/1)
 
 ### Difficulty: ***Medium***
 
