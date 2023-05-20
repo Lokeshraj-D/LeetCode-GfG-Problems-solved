@@ -1,4 +1,4 @@
-# [LONGEST PALINDROME] (https://leetcode.com/problems/longest-palindrome/description/)
+# [LONGEST PALINDROME](https://leetcode.com/problems/longest-palindrome/description/)
 
 Difficulty: Easy
 
