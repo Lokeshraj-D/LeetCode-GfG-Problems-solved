@@ -1,4 +1,4 @@
-# [GENERATE PARANTHESUS](https://leetcode.com/problems/generate-parentheses/)
+# [GENERATE PARANTHESIS](https://leetcode.com/problems/generate-parentheses/)
 
 ### Difficulty: ***Medium***
 
