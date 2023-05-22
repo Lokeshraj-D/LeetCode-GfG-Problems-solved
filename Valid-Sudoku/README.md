@@ -12,9 +12,9 @@ Note:
 A Sudoku board (partially filled) could be valid but is not necessarily solvable.
 Only the filled cells need to be validated according to the mentioned rules.
 
+
+
 ![image](https://github.com/Lokesh2244/LeetCode-GfG-Problems-solved/assets/95064682/1a241f3e-0596-4c5f-ba7d-619943e10d74)
-
-
 ```
 Example 1:
 Input: board = 
