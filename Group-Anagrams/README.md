@@ -24,4 +24,4 @@ Input: strs = ["a"]
 Output: [["a"]]
 ```
 
-Time COmplexity : O(n*m)
+Time Complexity : O(n*m)
