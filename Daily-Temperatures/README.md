@@ -3,7 +3,8 @@
 ### Difficulty: ***Medium***
 
 [Given an integer array nums, return true if any value appears at least twice in the array, and return false if every element is distinct.
-](https://leetcode.com/problems/daily-temperatures/description/)```
+](https://leetcode.com/problems/daily-temperatures/description/)
+```
 Example 1:
 
 Input: temperatures = [73,74,75,71,69,72,76,73]
