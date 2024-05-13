@@ -8,9 +8,9 @@ Design an algorithm to serialize and deserialize a binary tree. There is no rest
 
 Clarification: The input/output format is the same as how LeetCode serializes a binary tree. You do not necessarily need to follow this format, so please be creative and come up with different approaches yourself.
 
+![image](https://github.com/Lokeshraj-D/LeetCode-GfG-Problems-solved/assets/95064682/5a37152e-2b7d-4169-aa16-d76139fbae57)
 ```
 Example 1:
-![image](https://github.com/Lokeshraj-D/LeetCode-GfG-Problems-solved/assets/95064682/5a37152e-2b7d-4169-aa16-d76139fbae57)
 
 Input: root = [1,2,3,null,null,4,5]
 Output: [1,2,3,null,null,4,5]
